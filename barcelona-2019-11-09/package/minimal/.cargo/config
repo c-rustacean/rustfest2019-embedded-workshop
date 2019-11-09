@@ -2,7 +2,7 @@
 target = "thumbv6m-none-eabi"
 
 [target.thumbv6m-none-eabi]
-runner = "arm-none-eabi-gdb -tui -q -x openocd.gdb"
+runner = "gdb-multiarch -tui -q -x openocd.gdb"
 rustflags = [
     "-C", "link-arg=-Tlink.x",
 ]
