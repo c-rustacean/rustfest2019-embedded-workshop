@@ -5,6 +5,8 @@ Inter-students notepad
     bit.do/rustfest
     (goes to: https://hackmd.io/ru4intliRlyJ9t8pU2F29A)
 
+    (Exported as Gist at: https://gist.github.com/eddyp/d713892775795808e3e39a25b22daf78)
+
 Setup instructions for workshop
 ===============================
 
